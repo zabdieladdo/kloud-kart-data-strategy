@@ -1,0 +1,18 @@
+# macOS / Windows system files
+.DS_Store
+Thumbs.db
+
+# Office lock files, created while a .pptx/.xlsx/.docx is open
+~$*
+
+# Temporary files
+*.tmp
+
+# VS Code settings
+.vscode/
+
+
+* text=auto eol=lf
+*.pptx binary
+*.xlsx binary
+*.zip binary
