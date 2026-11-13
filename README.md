@@ -58,6 +58,7 @@ kloud-kart-data-strategy/
 │   └── ADR-006-two-hires.md
 ├── deck/
 │   └── Kloud-Kart-Board-Deck.pptx
+├── glossary.md
 ```
 
 ## Notes on the figures
