@@ -63,6 +63,6 @@ kloud-kart-data-strategy/
 
 ## Notes on the figures
 
-Nana Adjei was unavailable for questions, so every gap in the brief is filled by a numbered assumption (A01–A31 in `appendix.md`) and cited by number wherever it is used. The assumption that would most change the recommendation if wrong is A20: that the gap between Operations' and Finance's sales figures comes from a few rules that can be named.
+Nana Adjei was unavailable for questions, so every gap in the brief is filled by a numbered assumption (A01–A31 in `appendix`) and cited by number wherever it is used. The assumption that would most change the recommendation if wrong is A20: that the gap between Operations' and Finance's sales figures comes from a few rules that can be named.
 
 Section references to Ghana's Data Protection Act, 2012 (Act 843) are for planning only and are not legal advice.
